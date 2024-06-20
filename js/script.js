@@ -1,5 +1,6 @@
 // https://openweathermap.org/current
 // https://home.openweathermap.org/api_keys
+// https://api.openweathermap.org/data/2.5/weather?q=Charlotte&appid=40809c32279c3fc1b8a5a1b9b3d978ab
 
 const apiKey = "40809c32279c3fc1b8a5a1b9b3d978ab";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=imperial&q=";
