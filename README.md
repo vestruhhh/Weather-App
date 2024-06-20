@@ -61,6 +61,12 @@ To run this project locally:
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
+## Future Add-Ons
+
+1. Feels Like
+2. Daily Low and High
+3. Wind Direction
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
